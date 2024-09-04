@@ -1,9 +1,18 @@
 # TinyAgent: Function Calling at the Edge
+<!--- BADGES: START --->
+[![Arxiv](https://img.shields.io/badge/arXiv-2409.00608-B31B1B.svg)][#arxiv-paper-package]
+[![GitHub license](https://img.shields.io/badge/License-MIT-blu.svg)][#license-gh-package]
+
+[#license-gh-package]: https://lbesson.mit-license.org/
+[#arxiv-paper-package]: https://arxiv.org/abs/2409.00608
+<!--- BADGES: END --->
 
 <p align="center">
 <a href="https://github.com/SqueezeAILab/TinyAgent/raw/main/TinyAgent.zip">Get the desktop app</a>‎ ‎ 
   |‎ ‎ 
-<a href="https://bair.berkeley.edu/blog/2024/05/29/tiny-agent">Read the blog post</a>
+<a href="https://bair.berkeley.edu/blog/2024/05/29/tiny-agent">Read the blog post</a>‎ ‎
+  |‎ ‎
+<a href="https://arxiv.org/pdf/2409.00608">Read the paper</a>
 </p>
 
 ![Thumbnail](figs/tinyagent.png)
