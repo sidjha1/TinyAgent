@@ -238,13 +238,16 @@ custom_agent: CustomAgent
 
 ## Citation
 
-We would appreciate it if you could please cite our [blog post](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/) if you found TinyAgent useful for your work:
+We would appreciate it if you could please cite our [paper](https://arxiv.org/pdf/2409.00608) if you found TinyAgent useful for your work:
 
 ```
-@misc{tiny-agent,
-  title={TinyAgent: Function Calling at the Edge},
-  author={Erdogan, Lutfi Eren and Lee, Nicholas and Jha, Siddharth and Kim, Sehoon and Tabrizi, Ryan and Moon, Suhong and Hooper, Coleman and Anumanchipalli, Gopala and Keutzer, Kurt and Gholami, Amir},
-  howpublished={\url{https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/}},
-  year={2024}
+@misc{erdogan2024tinyagentfunctioncallingedge,
+      title={TinyAgent: Function Calling at the Edge},
+      author={Lutfi Eren Erdogan and Nicholas Lee and Siddharth Jha and Sehoon Kim and Ryan Tabrizi and Suhong Moon and Coleman Hooper and Gopala Anumanchipalli and Kurt Keutzer and Amir Gholami},
+      year={2024},
+      eprint={2409.00608},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.00608},
 }
 ```
